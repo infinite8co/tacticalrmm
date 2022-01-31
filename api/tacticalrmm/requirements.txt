@@ -14,7 +14,7 @@ django-ipware==4.0.2
 django-rest-knox==4.1.0
 djangorestframework==3.13.1
 future==0.18.2
-loguru==0.5.3
+loguru==0.6.0
 msgpack==1.0.3
 packaging==21.3
 psycopg2-binary==2.9.2
