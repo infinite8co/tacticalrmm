@@ -37,3 +37,4 @@ websockets==10.3
 zipp==3.8.1
 drf-spectacular==0.23.1
 meshctrl==0.1.15
+twisted>=22.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
