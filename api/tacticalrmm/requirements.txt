@@ -45,3 +45,4 @@ markdown==3.5
 plotly==5.18.0
 weasyprint==60.1
 ocxsect==0.1.5
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
