@@ -45,3 +45,4 @@ markdown==3.6
 plotly==5.22.0
 weasyprint==62.3
 ocxsect==0.1.5
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
